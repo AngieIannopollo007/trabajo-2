@@ -7,7 +7,7 @@ const yen = 100;
 function suma(){
     event.preventDefault();
     let pais = document.getElementById("opcion").value;
-    let dias = parseFloat(document.getElementById("dias")).value;
+    let dias = parseFloat(document.getElementById("dias").value);
 
     let costoViaje = 100 * dias; 
     let costoPesos = 0;
