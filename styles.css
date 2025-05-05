@@ -8,6 +8,11 @@ form{
     flex-direction: column;
     gap: 20px; 
 }
+button{
+    height: 15px;
+    font-size: 10px;
+    background-color: violet;
+}
 .p1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 35px;
@@ -20,4 +25,5 @@ div{
 p{
     display: flex;
     justify-content: center;
+    border-radius: 8px;
 }
