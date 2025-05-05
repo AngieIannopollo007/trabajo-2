@@ -26,6 +26,4 @@ function suma(event){
 
     document.getElementById("costoFinal").textContent =
     "El numero es: " + costoPesos;
-
-   return;
 }
