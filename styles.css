@@ -25,6 +25,6 @@ div{
 p{
     display: flex;
     justify-content: center;
-    border: 8px solid black;
-    
+    border: 3px solid violet;
+    border-radius: 25p
 }
